@@ -14,32 +14,15 @@ When time allows, technical diving is something that is enjoyed within the normo
 
 ### Technology Path
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Non-Destructive Testing is a profession that I have enjoyed and still continue to embrace.
+In particular, testing methods such as:
+-Ultrasonic Testing
+-Magnetic Particle Testing
+-Liquid Penetrant Testing
+-Visual Testing
 
-```markdown
-Syntax highlighted code block
+[CLICK HERE FOR RESUME](https://chrisvallejo.github.io/NDTResume2017.docx)
 
-# Header 1
-## Header 2
-### Header 3
+#### Education continues...
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chrisvallejo/chrisvallejo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Technology is on the horizon!! Currently working on my Bachelor's in Information Technology at Florida International University.
