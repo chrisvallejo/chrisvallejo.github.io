@@ -8,7 +8,7 @@ Was even able to work in Encinada, Mexico for some time.
 ![InMexico](https://chrisvallejo.github.io/IMG_0108.JPG)
 
 When time allows, technical diving is something that is enjoyed within the normoxic levels of mixed gas diving.
-![TechDay](https://chrisvallejo.github.io/IMG_0041(2).JPG)
+![TechDay](https://chrisvallejo.github.io/IMG_5555.JPG)
 
 ![TechJolla](https://chrisvallejo.github.io/IMG_0121.JPG)
 
