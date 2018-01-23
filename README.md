@@ -1,5 +1,6 @@
 ## The WorkCenter
-![TheImage](https://nupolytech.org/wp-content/gallery/pierside-commercial-diving-in-san-diego/Cohort-H-Dive-Operations-II-135.JPG)
+The name is Christian. I am a professional commercial diver and NDT technician. Became part of the diving industry back in 2013 on and off. 
+![Offtheboat](https://chrisvallejo.github.io/IMG_0104.JPG)
 
 ### Markdown
 
